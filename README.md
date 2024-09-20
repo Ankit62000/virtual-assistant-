@@ -1,7 +1,7 @@
 
 # Virtual Assistant in Python
 
-![Virtual Assistant](https://github.com/Ankit62000/virtual-assistant-.git)
+![Virtual Assistant](va.webp)
 
 ## Table of Contents
 
