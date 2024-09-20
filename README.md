@@ -1,18 +1,17 @@
-# virtual-assistant
 
 # Virtual Assistant in Python
 
-![Virtual Assistant](https://github.com/mmirthula02/AI-Personal-Voice-assistant-using-Python)
+![Virtual Assistant](https://github.com/Ankit62000/virtual-assistant-.git)
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction]
+- [Features]
+- [Technologies Used]
+- [Installation]
+- [Usage]
+- [Contributing]
+
 
 ## Introduction
 
